@@ -1,2 +1,5 @@
-# rag-bench
-Production RAG benchmark comparing BM25, vector, hybrid and reranked retrieval on recall, faithfulness, cost and latency
+# RAG Bench
+Benchmarking BM25, dense, hybrid and reranked retrieval on <corpus>
+for recall, faithfulness, latency and cost.
+
+Status: in development
